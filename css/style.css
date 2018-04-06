@@ -10,11 +10,12 @@ div#board {
 	background-image: url("../images/board.jpg");
 }
 
-div#massageArea {
+div#messageArea {
 	position: absolute;
 	top: 0px;
 	left: 0px;
 	color: rgb(83, 175, 19);
+	font-size: 20px;
 
 }
 
@@ -36,6 +37,7 @@ form {
 	right: 0px;
 	padding: 15px;
 	background-color: rgb(83, 175, 19);
+	font-size: 20px;
 
 }
 form input {
